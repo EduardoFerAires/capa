@@ -27,6 +27,7 @@ header>div {
     color: var(--cor4);
     text-align: center;
     border-radius: 0px 0px 10px 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.308);
 }
 main{
     background-color: var(--cor4);
@@ -35,6 +36,7 @@ main{
     color: var(--cor0);
     text-align: center;
     border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.308);
 
 }
 
