@@ -12,26 +12,27 @@
     margin: 0px;
     padding: 0px;
 }
-body {
-    background-image: url(imagens/valorant-yr1-keyart-4k-3-.0.webp);
+
+ body{
+    background-color: #4C09B8;
+ }
+
+header>div {
+    background-image: url(imagens/Beginners-Guide-to-VALORANT.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
- 
-}
-header {
-    background-color: var(--cor2);
-    margin: 30px;
+    height: 500px;
     padding: 10px;
+    margin: 0px 10px 0px 10px;
     color: var(--cor4);
     text-align: center;
-    border-radius: 10px;
+    border-radius: 0px 0px 10px 10px;
 }
 main{
-    background-color: var(--cor2);
+    background-color: var(--cor4);
     margin: 40px;
     padding: 10px;
-    color: white;
+    color: var(--cor0);
     text-align: center;
     border-radius: 10px;
 
