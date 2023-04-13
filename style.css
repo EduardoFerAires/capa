@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+:root {
+    --cor0: #610CEB;
+    --cor1: #3F236B;
+    --cor2: #4C09B8;
+    --cor3: #2C056B;
+    --cor4: #EBEB00;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url(imagens/valorant-yr1-keyart-4k-3-.0.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+ 
+}
+header {
+    background-color: var(--cor2);
+    margin: 30px;
+    padding: 10px;
+    color: var(--cor4);
+    text-align: center;
+    border-radius: 10px;
+}
+main{
+    background-color: var(--cor2);
+    margin: 40px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
